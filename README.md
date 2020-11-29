@@ -2,6 +2,8 @@
 
 List of HEX Colors in Russian 🌈
 
+Source of colors: [Каталог цветов на русском языке](https://theglitchy.com/sandbox/russian_color_names)
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -20,8 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
+```ruby
+RussianColorNamesRuby.show_color_name("#ff0000")
+=> "Красный"
+```
 
 ## License
 

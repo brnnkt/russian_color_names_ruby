@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "List of HEX Colors in Russian 🌈"
   spec.description   = "List of HEX Colors in Russian 🌈"
-  spec.homepage      = "https://theglitchy.com"
+  spec.homepage      = "https://theglitchy.com/sandbox/russian_color_names"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
