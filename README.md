@@ -1,5 +1,6 @@
 # RussianColorNamesRuby
 
+List of HEX Colors in Russian 🌈
 
 ## Installation
 
